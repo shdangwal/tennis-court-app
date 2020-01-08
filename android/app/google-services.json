@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "219509808855",
+    "firebase_url": "https://tennis-court-transactions.firebaseio.com",
+    "project_id": "tennis-court-transactions",
+    "storage_bucket": "tennis-court-transactions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219509808855:android:9ef32610bf53ce377c1a92",
+        "android_client_info": {
+          "package_name": "com.ShDangwal.court_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219509808855-o0b4ugpmh23kl4pj3qul9o8d212n57sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhDB4cgxWcrkfpVj49_GQUiCO-cvWTzAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219509808855-o0b4ugpmh23kl4pj3qul9o8d212n57sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
